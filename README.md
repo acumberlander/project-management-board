@@ -1,6 +1,6 @@
 # Project Management Board
 
-This the 3rd project from the "React Projects" book from Packt Publishing.
+This is the 3rd project from the "React Projects" book from Packt Publishing.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
